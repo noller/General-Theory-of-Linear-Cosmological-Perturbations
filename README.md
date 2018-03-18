@@ -1,6 +1,6 @@
-# Additional Details for arXiv:1711.xxxxx
+# Additional Details for arXiv:1711.09893
 
-We here present extra details for the results published in arxiv:1711.xxxxx ("A general theory of linear cosmological
+We here present extra details for the results published in arxiv:1711.09893 ("A general theory of linear cosmological
 perturbations: stability conditions, the quasistatic limit and dynamics"), that were omitted in the paper for brevity. Specifically we give results for the special vector-tensor case with $\alpha_D = 0$: 
 
 1) In the file "StabilityConditionsVTII.pdf", we give the coefficients of the mass matrix and antisymmetric kinetic-mass mixing terms required to explicitly compute the stability conditions for this model.
